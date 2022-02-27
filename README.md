@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timecoder1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html,css, javascript
+- 🌱 I’m currently learning html,css, javascript, Python etc...
 - 💞️ I’m looking to collaborate on app devolopment
 - 📫 How to reach me Rkrethick@gmail.com
 
